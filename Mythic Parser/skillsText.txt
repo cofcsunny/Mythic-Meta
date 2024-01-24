@@ -1,0 +1,72 @@
+Appeal (Trained)	Skill	200	Basic
+Athletics (Trained)	Skill	200	Basic
+Camouflage (Trained)	Skill	200	Basic
+Command (Trained)	Skill	200	Basic
+Cryptography (Trained)	Skill	300	Advanced
+Deception (Trained)	Skill	200	Basic
+Demolition (Trained)	Skill	300	Advanced
+Evasion (Trained)	Skill	200	Basic
+Gambling (Trained)	Skill	200	Basic
+Interrogation (Trained)	Skill	200	Basic
+Intimidation (Trained)	Skill	200	Basic
+Investigation (Trained)	Skill	200	Basic
+Medication Human (Trained)	Skill	300	Advanced
+Medication XENOBIOLOGY (Trained)	Skill	300	Advanced
+Navigation Ground and Air (Trained)	Skill	200	Basic
+Navigation Space (Trained)	Skill	300	Basic
+Negotiation (Trained)	Skill	200	Basic
+Pilot Ground (Trained)	Skill	200	Basic
+Pilot Air (Trained)	Skill	300	Basic
+Pilot Space (Trained)	Skill	400	Advanced
+Security (Trained)	Skill	300	Advanced
+Stunting (Trained)	Skill	200	Basic
+Survival (Trained)	Skill	200	Basic
+Technology Human (Trained)	Skill	200	Advanced
+Appeal (+10)	Skill	400	Basic
+Athletics (+10)	Skill	400	Basic
+Camouflage (+10)	Skill	400	Basic
+Command (+10)	Skill	400	Basic
+Cryptography (+10)	Skill	500	Advanced
+Deception (+10)	Skill	400	Basic
+Demolition (+10)	Skill	500	Advanced
+Evasion (+10)	Skill	400	Basic
+Gambling (+10)	Skill	400	Basic
+Interrogation (+10)	Skill	400	Basic
+Intimidation (+10)	Skill	400	Basic
+Investigation (+10)	Skill	400	Basic
+Medication Human (+10)	Skill	500	Advanced
+Medication XENOBIOLOGY (+10)	Skill	500	Advanced
+Navigation Ground and Air (+10)	Skill	400	Basic
+Navigation Space (+10)	Skill	500	Basic
+Negotiation (+10)	Skill	400	Basic
+Pilot Ground (+10)	Skill	400	Basic
+Pilot Air (+10)	Skill	500	Basic
+Pilot Space (+10)	Skill	800	Advanced
+Security (+10)	Skill	500	Advanced
+Stunting (+10)	Skill	400	Basic
+Survival (+10)	Skill	400	Basic
+Technology Human (+10)	Skill	400	Advanced		
+Appeal (+20)	Skill	600	Basic
+Athletics (+20)	Skill	600	Basic
+Camouflage (+20)	Skill	600	Basic
+Command (+20)	Skill	600	Basic
+Cryptography (+20)	Skill	700	Advanced
+Deception (+20)	Skill	600	Basic
+Demolition (+20)	Skill	700	Advanced
+Evasion (+20)	Skill	600	Basic
+Gambling (+20)	Skill	600	Basic
+Interrogation (+20)	Skill	600	Basic
+Intimidation (+20)	Skill	600	Basic
+Investigation (+20)	Skill	600	Basic
+Medication Human (+20)	Skill	700	Advanced
+Medication XENOBIOLOGY (+20)	Skill	700	Advanced
+Navigation Ground and Air (+20)	Skill	600	Basic
+Navigation Space (+20)	Skill	700	Basic
+Negotiation (+20)	Skill	600	Basic
+Pilot Ground (+20)	Skill	600	Basic
+Pilot Air (+20)	Skill	700	Basic
+Pilot Space (+20)	Skill	1,000	Advanced
+Security (+20)	Skill	700	Advanced
+Stunting (+20)	Skill	600	Basic
+Survival (+20)	Skill	600	Basic
+Technology Human (+20)	Skill	600	Advanced

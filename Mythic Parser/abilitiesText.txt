@@ -1,0 +1,94 @@
+Action Figure Hands	Ability	800		Strength: 50
+Adept Marksman	Ability	800		Warfare Range: 40, Perception: 45
+Aggressive Advance	Ability	300		Warfare Range: 40, Warfare Melee: 35
+Air Time	Ability	250		Perception: 35
+Akimbo	Ability	500		Warfare Range: 40, Warfare Melee: 40
+Alien Tech	Ability	250		Intellect: 45
+Always Ready	Ability	500		Perception: 35
+Ask Nicely	Ability	500		Charisma: 40
+Aviator	Ability	500		Pilot (Air): +10
+Battle mind	Ability	250		Intellect: 40
+Blind Fight	Ability	250		Exceptional Hearing
+Blur	Ability	750		Toughness: 45, Agility: 45
+Bound Back	Ability	400		Agility: 45
+Break Shot	Ability	400		Warfare Range: 40
+Calculated Pilot	Ability	500		Perception: 40, Agility: 40
+Clear Target	Ability	350		Warfare Range: 55
+Cynical	Ability	250		Courage: 40
+Decapitating Strike	Ability	750		Guillotine Strike
+Denial	Ability	500		Agility: 45
+Disarm	Ability	250		Warfare Melee: 40
+Disarm (Improved)	Ability	500		Disarm, Agility: 40
+Eagle Eye	Ability	250		Perception: 40
+Emotionally Broken	Ability	500		Cynical
+Evasive Maneuvers	Ability	500		Agility: 45
+Even Out	Ability	250		Pilot: (Type) +10
+Exceptional Hearing	Ability	250		Perception: 30
+Far-Sight	Ability	250		Perception: 30
+Fast Foot	Ability	250		Agility or Intellect: 40
+Faster Than Reloading	Ability	250		Warfare Melee: 35
+Field Medic	Ability	600		Intellect: 55
+Flame Spray	Ability	250		Intellect: 25
+Focused Warrior	Ability	400		Perception: 45
+Frenzy	Ability	250		Courage: 30
+Gather Senses	Ability	500		Courage: 40
+Guarded	Ability	450		Agility: 40
+Grand Entrance	Ability	600		Leadership: 50
+Guillotine Strike	Ability	500		Strength: 45
+Gunboat Diplomacy	Ability	600		Courage: 45 or Leadership: 45
+Handler	Ability	300		Charisma: 30 or Leadership: 30
+Hand-To-Hand Basic	Ability	250		Warfare Melee: 35
+Heavy Preparation	Ability	600		Strength: 40
+Heroic Sacrifice	Ability	1,000		Luck: 0-1, Courage: 45
+Improvised Mastery	Ability	250		Hand-To-Hand Basic
+Inspired	Ability	250		Charisma: 50 or Leadership: 50
+Iron Fist	Ability	500		Strength: 55
+Lucky Shot	Ability	750		Luck: 1+
+Manslaughter	Ability	250		Pilot (Type): +20
+Marksman	Ability	400		Perception: 55
+Medical Insight	Ability	750		Medication: +20
+Medical Prowess	Ability	400		Intellect: 50
+Mind Timer	Ability	450		Intellect: 40
+Mobile Fire	Ability	500		Warfare Range: 50
+Modern Army Combative	Ability	800		Hand-To-Hand Basic
+Not Enough	Ability	750		Courage: 55
+One Eye Open	Ability	250		Perception: 40
+Order of Things	Ability	250		Leadership: 40
+Outstanding Olfactory	Ability	250		Perception: 40
+Peer	Ability	250		Charisma: 40
+Practiced Fighter	Ability	500		Warfare Melee: 45
+Precision Strike	Ability	350		Warfare Melee: 55
+Predictable	Ability	750		Warfare Melee: 60
+Protector	Ability	250		Agility: 35
+Quick Toss	Ability	300		Warfare Melee: 55
+Quickdraw	Ability	250		Agility: 40
+Quickscope	Ability	750		Perception: 45
+Rapid Reload	Ability	500		Agility: 45
+Reliable Reputation	Ability	250		Charisma: 45
+Resilient	Ability	500		Toughness: 35
+Resourceful	Ability	500		Leadership: 45
+Revulsion	Ability	250		Charisma: 35
+Rush	Ability	500		Agility: 40
+Second Chance	Ability	750		Toughness: 55
+Shotfun	Ability	500		Warfare Range: 30
+Smooth Talker	Ability	500		Charisma: 45
+Snapshot	Ability	750		Perception: 45
+Soldier of Fortune	Ability	1500		Luck: 2+
+Stabilization	Ability	750		Medication: +10
+Steady Aim	Ability	500		Perception: 40
+Sticky Fingers:	Ability	450		Athletics: +10
+Strafing Run	Ability	500		Agility: 40
+Strong Back	Ability	400		Strength: 40
+Sure Strike	Ability	400		Warfare Melee: 40
+Swift Shot	Ability	500		Quickdraw­
+Take The Bait	Ability	350		Courage: 40
+Trample	Ability	500		Hand-To-Hand Basic
+Triangulation	Ability	250		Intellect: 35
+True Inspiration	Ability	500		Leadership: 35
+Unarmed Combatant	Ability	250		Warfare Melee: 35
+Unbreakable Bond	Ability	300		Courage: 45
+Under Control	Ability	250		Courage: 45
+Unrestrained Reflexes	Ability	750		Agility: 45
+Valorous	Ability	800		Leadership: 50, True Inspiration
+Vault	Ability	500		Agility: 45
+Wheelman	Ability	500		Pilot: Ground +20
