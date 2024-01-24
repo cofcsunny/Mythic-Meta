@@ -8,6 +8,3 @@ character:
         str name
         str level
     skill[] skills
-    
-
-
