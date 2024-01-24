@@ -7,4 +7,6 @@ Classes
     Ability
     Prerequisite
     Skill
+    ~Outlier
+    ~Mythic Characteristic
     
