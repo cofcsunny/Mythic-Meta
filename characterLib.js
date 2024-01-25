@@ -6,10 +6,12 @@ class Character{
         this.game_skills = skills
         this.skills = {}
         this.characteristics = {}
-        for(characteristic in this.game_characteristics){
+        for(let i = 0;i<this.game_characteristics.length;i++){
+            let characteristic = this.game_characteristics[i]
             this.characteristics[characteristic["name"]] = 0
         }
-        for(skill in this.game_skills){
+        for(let i = 0;i<this.game_skills.length;i++){
+            let skill = this.game_skills[i]
             this.skills[skill["name"]] = "Untrained"
         }
     }
@@ -30,5 +32,5 @@ class MythicCharacter extends Character{
     }
 }
 
-John = MythicCharacter("John")
+let John = new MythicCharacter("John")
 
