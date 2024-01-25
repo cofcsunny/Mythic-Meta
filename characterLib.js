@@ -11,7 +11,21 @@ class Ability{
 }
 class Handler{//an advance handler
     constructor(type, levels){
-        //
+        this.type = type
+        this.levels = levels
+        switch(type){
+            case "Characteristic":
+                //
+                break;
+            case "Skill":
+                //
+                break;
+            case "Ability":
+                //
+                break;
+            default:
+                break;
+        }
     }
 }
 class Skill{
@@ -42,17 +56,19 @@ class Character{
     }
 }
 
+class World{
+    constructor(){
+        //
+    }
+}
+//^world in case I need it for keeping track of objects
 //Mythic World Constants
 
 mythicCharacteristicLevels = [{"Simple":200}, {"Rookie":400}, {"Intermediate":800}, {"Trained":1200}, {"Mastery":1600}]
 mythicSkillLevels = ["Trained", "+10", "+20"]
 
-
-
-//abilities definition
-mythicAbilities = [
-    actionFigureHands = Ability("Action Figure Hands", 800, Prerquisite({"Strength":50}))
-]
+mythicCharacteristics = ["Strength", "Toughness", "Etc"]
+mythicSkills = [{"Appeal":[200,400,600],"Difficulty":"basic"}, {"Athletics":[200,400,600],"Difficulty":"basic"}]
 
 
 /////attempt at loops
@@ -63,24 +79,13 @@ for(char in characteristicStrings){
     characteristicList+=Characteristic(char, Handler("Characteristic", mythicCharacteristicLevels))
 }
 
+
+
+mythicAbilities = [
+    actionFigureHands = Ability("Action Figure Hands", "Description...", Handler("Ability", 800, Prerquisite({"Strength":50})))
+]
 /////
 
-//advance handler definition
-
-strengthHandler = Handler()
-
-appealHandler = Handler()
-athleticsHandler = Handler()
-
-//characteristic definition
-MythicCharacteristics = [
-    strength = Characteristic("Strength")
-]
-//skills definition
-mythicSkills = [
-    appeal = Skill("Appeal", [200,400,600], "basic"),
-    athletics = Skill("Athletics", [200, 400, 600], "basic")
-]
 
 //Mythic specific for testing
 class MythicCharacter extends Character{
