@@ -10,23 +10,20 @@ class Ability{
     }
 }
 class Handler{//an advance handler
+    currentLevel = 0
+    levelCount = 1
     constructor(type, levels){
         this.type = type
         this.levels = levels
-        switch(type){
-            case "Characteristic":
-                //
-                break;
-            case "Skill":
-                //
-                break;
-            case "Ability":
-                //
-                break;
-            default:
-                break;
-        }
+        //levels should look like {"levelNames":["etc","etc"], "levelCosts":[200,400]}
     }
+    getAdvanceCost(){
+        return this.levels["levelCosts"][this.currentLevel]
+    }
+    getAdvanceLevel(){
+        return this.currentLevel
+    }
+
 }
 class Skill{
     constructor(name, costs, handler){
@@ -72,10 +69,10 @@ mythicSkills = [{"Appeal":[200,400,600],"Difficulty":"basic"}, {"Athletics":[200
 
 
 /////attempt at loops
-characteristicStrings = ["Strength", "Toughness"]
 characteristicList = []
+skillsList = []
 
-for(char in characteristicStrings){
+for(char in mythicCharacteristics){
     characteristicList+=Characteristic(char, Handler("Characteristic", mythicCharacteristicLevels))
 }
 
@@ -95,3 +92,13 @@ class MythicCharacter extends Character{
 }
 
 John = MythicCharacter("John")
+
+
+
+
+
+
+
+//give an object which contains stat information and an object with 2 arrays
+//levelNames:[]
+//levelCosts:[]
