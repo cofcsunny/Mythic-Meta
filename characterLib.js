@@ -9,8 +9,8 @@ class Ability{
         //
     }
 }
-class Handler{
-    constructor(){
+class Handler{//an advance handler
+    constructor(type, levels){
         //
     }
 }
@@ -28,10 +28,9 @@ class Skill{
     }
 }
 class Characteristic{
-    constructor(name, costs, level){
+    constructor(name, handler){
         this.name = name
-        this.level = level
-        this.costs = costs
+        this.handler = handler
     }
 }
 class Character{
@@ -43,14 +42,39 @@ class Character{
     }
 }
 
+//Mythic World Constants
+
+mythicCharacteristicLevels = [{"Simple":200}, {"Rookie":400}, {"Intermediate":800}, {"Trained":1200}, {"Mastery":1600}]
+mythicSkillLevels = ["Trained", "+10", "+20"]
+
+
 
 //abilities definition
 mythicAbilities = [
     actionFigureHands = Ability("Action Figure Hands", 800, Prerquisite({"Strength":50}))
 ]
+
+
+/////attempt at loops
+characteristicStrings = ["Strength", "Toughness"]
+characteristicList = []
+
+for(char in characteristicStrings){
+    characteristicList+=Characteristic(char, Handler("Characteristic", mythicCharacteristicLevels))
+}
+
+/////
+
+//advance handler definition
+
+strengthHandler = Handler()
+
+appealHandler = Handler()
+athleticsHandler = Handler()
+
 //characteristic definition
 MythicCharacteristics = [
-    strength = Characteristic("Strength", )
+    strength = Characteristic("Strength")
 ]
 //skills definition
 mythicSkills = [
